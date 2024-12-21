@@ -50,6 +50,9 @@ The application is designed to be easily tested and run locally without addition
 
 ---
 
+- Rating Submission
+![Rating](Dokumentasi/Ratings.jpg)
+
 ## API Documentation
 
 ### Add Book
